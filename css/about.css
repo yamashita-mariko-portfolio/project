@@ -158,7 +158,7 @@ section {
 }
 
 .text h1 {
-	font-size: 5rem;
+	font-size: 3rem;
 	padding-bottom: 0.1em;
 	text-transform: uppercase;
 	text-align: center;
@@ -342,6 +342,10 @@ section {
 	padding-top: 2em;
 }
 
+.soge{
+	font-size: 15px;
+}
+
 /* resume */
 .resume li {
 	margin-bottom: 0.5em;
@@ -382,6 +386,11 @@ section {
 
 .edu p{
 	margin-bottom: 10px;
+}
+
+span{
+	font-size: 1rem;
+	font-weight: 700;
 }
 
 /* skill */
